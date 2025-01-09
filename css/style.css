@@ -322,8 +322,8 @@
   color: var(--post-footer-warning-message-color);
 }
 :root {
-  --preheader: #672ca6 /*#052f33*/;
-  --primary: #8d5cd1;
+  --preheader: #303030 /*#052f33*/;
+  --primary: #09090a;
   --secondary: #e5e5e5;
   --bitter-lime: #beff36;
   --black: #000000;
